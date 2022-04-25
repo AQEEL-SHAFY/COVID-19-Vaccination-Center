@@ -1,0 +1,56 @@
+
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Çµí‘
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ú¡°°ÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ıíÓæ
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(õ‰Äáûÿÿÿÿ
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(‹ì‚êøÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(îéÓz
+S	java:S106"9Replace this use of System.out or System.err by a logger.(›åğÎùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(º°Ûªøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‰ğØ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(È‹É”
+S	java:S106"9Replace this use of System.out or System.err by a logger.(€œ×ôüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ë²£Ÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ú¡°°ÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(èÖ´‡
+Y
+java:S6208"CMerge the previous cases into this one using comma-separated label.(ùì·ó
+^
+java:S6208&"CMerge the previous cases into this one using comma-separated label.(ÙÚùÿÿÿÿ
+^
+java:S62081"CMerge the previous cases into this one using comma-separated label.(¬ùü”üÿÿÿÿ
+^
+java:S6208?"CMerge the previous cases into this one using comma-separated label.(ˆú¾™øÿÿÿÿ
+^
+java:S6208G"CMerge the previous cases into this one using comma-separated label.(ìú–Ìüÿÿÿÿ
+Y
+java:S6208L"CMerge the previous cases into this one using comma-separated label.(œØ¯
+^
+java:S6208Q"CMerge the previous cases into this one using comma-separated label.(Æœ¶«ûÿÿÿÿ
+^
+java:S6208Z"CMerge the previous cases into this one using comma-separated label.(¿™êÉşÿÿÿÿ
+Y
+java:S6208a"CMerge the previous cases into this one using comma-separated label.(Ûæ“ 
+N	java:S106"9Replace this use of System.out or System.err by a logger.(½Æçó
+N	java:S106"9Replace this use of System.out or System.err by a logger.(çÊä‚
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(¬—––üÿÿÿÿ
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(çÊä‚
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(éë÷ÿüÿÿÿÿ
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(²éè
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(¨…ÙÑøÿÿÿÿ
+N	java:S106@"9Replace this use of System.out or System.err by a logger.(º¼¢ã
+S	java:S106H"9Replace this use of System.out or System.err by a logger.(¹ß¾şÿÿÿÿ
+N	java:S106M"9Replace this use of System.out or System.err by a logger.(ÛØéÕ
+S	java:S106R"9Replace this use of System.out or System.err by a logger.(àİ­›úÿÿÿÿ
+N	java:S106T"9Replace this use of System.out or System.err by a logger.(ãá¥
+N	java:S106["9Replace this use of System.out or System.err by a logger.(ğ’œ™
+N	java:S106\"9Replace this use of System.out or System.err by a logger.(¾ÖÊ
+N	java:S106b"9Replace this use of System.out or System.err by a logger.(â‰ø‡
+S	java:S106g"9Replace this use of System.out or System.err by a logger.(®ëÎ§úÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô´ƒ’
+T
+java:S4973)"9Use the "equals" method if value comparison was intended.(©¡ëúÿÿÿÿ
+D
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8¶şÓşª/
